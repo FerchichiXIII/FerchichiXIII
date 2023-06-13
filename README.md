@@ -29,11 +29,6 @@ Here are some notable projects I have worked on:
 6. **Project 6:** AR Business Card
 
 
-
-## Education
-
-- **Bachelor's Degree in Computer Science (2023)** - Holberton School
-
 ## Contact
 
 - **Email:** [anasferchichi22@gmail.com](anasferchichi22@gmail.com)
