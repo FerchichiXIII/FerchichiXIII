@@ -1,6 +1,6 @@
 # Anas Ferchichi
 
-AMy name is Anas Ferchichi ! I'm a motivated AR/VR games Developer. From Holberton school Tunisia, seeking to apply and expand my knowledge and skills towards working in a collaborative environment to develop quality software solutions.
+My name is Anas Ferchichi ! I'm a motivated AR/VR games Developer. From Holberton school Tunisia, seeking to apply and expand my knowledge and skills towards working in a collaborative environment to develop quality software solutions.
 
 ## Skills
 
