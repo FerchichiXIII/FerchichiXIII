@@ -1,6 +1,6 @@
 # Anas Ferchichi
 
-Hello, I'm Anas Ferchichi, a passionate Full Stack Developer and Game Developer. I enjoy building interactive web applications and creating engaging gaming experiences. With a strong background in both frontend and backend development, I strive to create seamless user experiences and bring ideas to life through code.
+AMy name is Anas Ferchichi ! I'm a motivated AR/VR games Developer. From Holberton school Tunisia, seeking to apply and expand my knowledge and skills towards working in a collaborative environment to develop quality software solutions.
 
 ## Skills
 
